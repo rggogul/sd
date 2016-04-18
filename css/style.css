@@ -1,0 +1,155 @@
+body{
+	background-color:#ffffff;
+	padding:0;
+	}
+.body_title{
+	font-family:"Century Gothic"; font-size:14px; color:#292929;
+	
+	}
+.title_bottomtext{
+	font-family:"Century Gothic"; font-size:14px; color:#610101;
+	}
+.body_title a{
+	font-family:"Century Gothic"; font-size:14px; color:#5a5a5a; text-decoration:none;
+	
+	}
+.title_font{
+	font-family:"Times New Roman", Times, serif; font-size:14px; color:#610101; font-style:italic;
+	}
+.dropbox{
+	font-family:Arial; font-size:12px; color:#5e5e5e;
+	}
+.button{
+	background-color:#610101;
+	border:none;
+	width:75px;
+	color:#FFF;
+	font-family:Arial; font-size:12px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.text{
+	font-family:Arial; font-size:12px; color:#5e5e5e;
+	padding:14.5px;
+	text-align:justify;
+}
+
+.body_title12px{
+	font-family:"Century Gothic"; font-size:12px; color:#292929; 
+	}
+	
+.body_title13px{
+	font-family:"Century Gothic"; font-size:13px; color:#292929; 
+	}
+
+.body_title13px a{
+	font-family:"Century Gothic"; font-size:13px; color:#5a5a5a; text-decoration:none;
+	
+	}
+.body_title12px a{
+	font-family:"Century Gothic"; font-size:12px; color:#5a5a5a; text-decoration:none;
+	
+	}
+
+.title_font12px{
+	font-family:"Times New Roman", Times, serif; font-size:12px; color:#610101; font-style:italic;
+	}
+	
+.title_bottomtext12px{
+	font-family:"Century Gothic"; font-size:12px; color:#610101;
+}
+
+
+.textarial{
+	font-family:Arial; font-size:12px; color:#5e5e5e;
+}
+
+
+.body_title_menu {
+	font-family:"Century Gothic"; font-size:13px; color:#090909; font-weight:bold;
+	}
+	
+.body_title_menu a{
+	font-family:"Century Gothic"; font-size:13px; color:#090909; text-decoration:none;font-weight:bold;
+	}
+.projects_project_status{
+	font-family:"Century Gothic";font-size:15px; font-weight:bold; color:#FFFFFF;
+}
+.projects_project_name a{
+	font-family:Arial;font-size:12px; font-weight:normal; color:#FFFFFF; text-decoration:none;
+}
+.projects_project_types_list{
+	font-family:"Century Gothic";font-size:14px; font-weight:normal; color:#000000;
+}
+
+.projects_project_types_list a{
+	font-family:"Century Gothic";font-size:14px; font-weight:normal; color:#000000; text-decoration:none;
+}
+
+.projects_project_type{
+	font-family:"Century Gothic";font-size:15px; font-weight:bold; color:#610102;
+}
+.projectView_label_normal {
+	font-family:Arial;font-size:12px; font-weight:normal; color:#610102;
+}
+.projectView_label_bold {
+	font-family:Arial;font-size:12px; font-weight:bold; color:#610102;
+}
+#imageDiv {
+position:fixed;
+top:0px;
+background-color:#FFFFFF;
+height:10px;
+z-index:21;
+}
+#imagetopDiv {
+position:absolute;
+top:0px;
+background-color:#F98F92;
+height:10px;
+z-index:20;
+}
+
+.button {
+	background-color:#600000;
+	height:25px;
+	font-family:Arial, Helvetica, sans-serif, "Arial Narrow", "Segoe UI";
+	font-size:12px;
+	cursor:pointer;
+}
+
+.table_border{
+	padding:10px;
+	border:solid 1px #CCC;
+	}
+
+.tableheading{
+	font-family:"Segoe UI", Arial; font-size:12px;
+	color:#600000;
+	border-bottom:solid 1px #600000;
+	font-weight:bold;
+	
+	}
+.menutoptions {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	text-decoration:none;
+	color:#000000;
+	}
+
+.menutoptions a{
+	background-color:#069; 
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	text-decoration:none;
+	color:#000000;
+	padding:10px;
+	}
+.menutoptions a:hover{
+	background-color:#600000; 
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	text-decoration:none;
+	color:#ffffff;
+	padding:10px;
+	}
